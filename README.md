@@ -1,6 +1,6 @@
 
 ### Introduction
-This is the demo of DeepAugNet. 
+This is the official implementation of DeepAugNet, the code shall be released once our paper been accepted. You could download the *demo.mp4* file in this project to see the learned policy by our method in CUB-20.
 
 
 ### Demo
