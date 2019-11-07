@@ -12,7 +12,7 @@ Yinghuan Shi, Tiexin Qin, Yong Liu, Jiwen Lu,  Gao Yang and Dinggang Shen.
 The code shall be released once our paper has been accepted. You can download the *demo.mp4* file in this project to see the learned policy by our method in CUB-20.
 
 <center>
-<img src="./figs/fig_framework-eps-converted-to.png" width="100%" height="50%" />
+<img src="./figs/fig_framework-eps-converted-to.png" width="90%" height="50%" />
 </center>
 
 
